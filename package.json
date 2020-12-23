@@ -1,5 +1,5 @@
 {
-  "name": "cacher",
+  "name": "cache-this",
   "version": "1.0.0",
   "description": "A node command line tool that caches an api call",
   "main": "index.js",
@@ -12,6 +12,6 @@
     "axios": "^0.21.1"
   },
   "bin": {
-    "cacher": "index.js"
+    "cache-this": "index.js"
   }
 }
