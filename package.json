@@ -1,13 +1,13 @@
 {
   "name": "cache-this",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A node command line tool that caches an api call",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Shabier",
+  "license": "GPLv3",
   "dependencies": {
     "axios": "^0.21.1"
   },

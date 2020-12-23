@@ -8,6 +8,7 @@ main();
 
 function writeFile(filename, content) {
   fs.writeFileSync(filename, content);
+  console.log('✅ saved as:' + '\x1b[32m', filename);
 }
 
 async function getData(url) {
