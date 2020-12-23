@@ -1,0 +1,17 @@
+{
+  "name": "cacher",
+  "version": "1.0.0",
+  "description": "A node command line tool that caches an api call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "bin": {
+    "cacher": "index.js"
+  }
+}
